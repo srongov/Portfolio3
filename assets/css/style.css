@@ -1,0 +1,87 @@
+.nav {
+    margin: 20px;
+}
+
+#top {
+    background-color: #1A3C40;
+}
+
+#navhome {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #F55353;
+}
+
+
+#h3image {
+    display: flex;
+    justify-content: start;
+}
+
+#navimage {
+    border-radius: 80px;
+}
+
+#second {
+    margin-top: 70px;
+    padding: 20px;
+}
+
+#secondh3 {
+    padding-top: 50px;
+    margin-bottom: 40px;
+}
+
+#third {
+    margin-top: 70px;
+    background-color: #E8F9FD;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: 5px 10px 8px 10px #888888;
+}
+
+#thirdh3 {
+    color: #1A3C40;
+}
+
+#four {
+    margin-top: 100px;
+}
+
+#project {
+    justify-content: center;
+    margin-top: 50px;
+    box-shadow: 5px 10px #888888;
+
+}
+
+#fithh3 {
+    color: #1A3C40;
+}
+
+#fith {
+    margin-top: 100px;
+}
+
+#fithcol {
+    margin-top: 50px;
+    justify-content: center;
+}
+
+#six{
+    margin-top: 100px;
+}
+
+#seven {
+    margin-top: 100px;
+}
+
+#footer{
+    background-color: #1A3C40;
+    margin-top: 50px;
+    height: 50px;
+}
+
+#footerh5 {
+    color: white;
+}
